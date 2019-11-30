@@ -47,18 +47,15 @@ in the project, there are over 10 types of game which i need to classify
 
 
 ### Results
+In my F1 and classification report ![Report](https://github.com/Adouken133/final_project/blob/master/Report.png)
+it can show me my precision is actually super low here. So it is actually hard to classify the relationship between Genre 
+and the other features
 
-Brief (2 paragraph) description about your results. Include:
 
-- At least 1 figure
-- At least 1 "value" that summarizes either your data or the "performance" of your method
-- A short explanation of both of the above
 
 ### Discussion
-Brief (no more than 1-2 paragraph) description about what you did. Include:
+Bascially in my opinion my method did not sovle this problem since the F1 score and precision is so low. There are a few probability that could make this happened. Maybe my algorithm is not be able to solve this, or maybe this dataset is not appropriate for the classification case
 
-- interpretation of whether your method "solved" the problem
-- suggested next step that could make it better.
 
 ### References
 All of the links
