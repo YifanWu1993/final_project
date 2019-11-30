@@ -56,7 +56,7 @@ In my F1 and classification reportit can show me my precision is actually super 
 
 ### Discussion
 Bascially in my opinion my method did not sovle this problem since the F1 score and precision is so low. There are a few probability that could make this happened. Maybe my algorithm is not be able to solve this, or maybe this dataset is not appropriate for the classification case
-
+![corr](https://github.com/Adouken133/final_project/blob/master/corr.png)
 
 ### References
 All of the links
