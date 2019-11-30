@@ -47,9 +47,10 @@ in the project, there are over 10 types of game which i need to classify
 
 
 ### Results
-In my F1 and classification report ![Report](https://github.com/Adouken133/final_project/blob/master/Report.png)
-it can show me my precision is actually super low here. So it is actually hard to classify the relationship between Genre 
-and the other features
+![Report](https://github.com/Adouken133/final_project/blob/master/Report.png)
+In my F1 and classification reportit can show me my precision is actually super low here. So it is actually hard to classify the relationship between Genre and the other features
+![compare](https://github.com/Adouken133/final_project/blob/master/Comparsion_image.png)
+
 
 
 
