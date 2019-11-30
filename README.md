@@ -42,7 +42,7 @@ It is based on BeautifulSoup using Python. There are 16,598 records. 2 records w
 classification case.
 it can not only solve the simple classification case but also can handle the multiple classification case.
 in the project, there are over 10 types of game which i need to classify
- 
+![PCA](https://github.com/Adouken133/final_project/blob/master/Report.png)
 
 
 
