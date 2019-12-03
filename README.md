@@ -42,21 +42,21 @@ It is based on BeautifulSoup using Python. There are 16,598 records. 2 records w
 classification case.
 it can not only solve the simple classification case but also can handle the multiple classification case.
 in the project, there are over 10 types of game which i need to classify
-![PCA](https://github.com/Adouken133/final_project/blob/master/PCA.png)
+![PCA](https://github.com/Adouken133/final_project/blob/master/FIGURE/PCA.png)
 
 
 
 ### Results
-![Report](https://github.com/Adouken133/final_project/blob/master/Report.png)
+![Report](https://github.com/Adouken133/final_project/blob/master/FIGURE/Report.png)
 In my F1 and classification reportit can show me my precision is actually super low here. So it is actually hard to classify the relationship between Genre and the other features
-![compare](https://github.com/Adouken133/final_project/blob/master/Comparsion_image.png)
+![compare](https://github.com/Adouken133/final_project/blob/master/FIGURE/Comparsion_image.png)
 
 
 
 
 ### Discussion
 Bascially in my opinion my method did not sovle this problem since the F1 score and precision is so low. There are a few probability that could make this happened. Maybe my algorithm is not be able to solve this, or maybe this dataset is not appropriate for the classification case
-![corr](https://github.com/Adouken133/final_project/blob/master/corr.png)
+![corr](https://github.com/Adouken133/final_project/blob/master/FIGURE/corr.png)
 
 ### References
 All of the links
