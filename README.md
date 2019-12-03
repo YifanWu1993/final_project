@@ -10,8 +10,8 @@
 ### Resources
 Your repository should include the following:
 
-- Python script for your analysis
-- Results figure/saved file
+- Python script for your analysis:/final%20project.py
+- Results figure/saved file:/FIGURE
 - Dockerfile for your experiment
 - runtime-instructions in a file named RUNME.md
 
@@ -60,5 +60,6 @@ Bascially in my opinion my method did not sovle this problem since the F1 score 
 
 ### References
 All of the links
-
+https://www.kaggle.com/gregorut/videogamesales
+https://github.com/GregorUT/vgchartzScrape
 -------
