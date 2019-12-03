@@ -48,7 +48,7 @@ in the project, there are over 10 types of game which i need to classify
 
 ### Results
 ![Report](https://github.com/Adouken133/final_project/blob/master/FIGURE/Report.png)
-In my F1 and classification reportit can show me my precision is actually super low here. So it is actually hard to classify the relationship between Genre and the other features
+In my F1 and classification report can show me my precision is actually super low here. So it is actually hard to classify the relationship between Genre and the other features
 ![compare](https://github.com/Adouken133/final_project/blob/master/FIGURE/Comparsion_image.png)
 After i drop some features and got an new result actually isolate the JP_SALES the precision actually increase a little 
 ![new_report](https://github.com/Adouken133/final_project/blob/master/FIGURE/new_report.png)
