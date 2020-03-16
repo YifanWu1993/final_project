@@ -1,13 +1,12 @@
-# cebd1160_Final_project
-
-
-| Name | Date |
-|:-------|:---------------|
-|Yifan Wu |2019/11/29|
+# Feature Engineering 
+  This part we are going to explain the Feature Engineering that we did for our project and the purpose of doing it.
+  
+Bascially there are 4 big part for the whole feature enginnering that we are going to explain about it.
+  
 
 -----
 
-### Resources
+### Email Feature
 Your repository should include the following:
 
 - Python script for your analysis:/final%20project.py
