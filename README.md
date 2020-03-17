@@ -28,6 +28,8 @@
 
 -----
 
+
+
 # Feature Engineering 
 
 - This part we are going to explain the Feature Engineering that we did for our project and the purpose of doing it.
@@ -47,7 +49,7 @@ Bascially there are 4 big part for the whole feature enginnering that we are goi
 
 - Also we create an new feature called ['Region_emaildomain']:
 
-- what we did is transfer all the information that we got in ['P_emaildomain'] and then to get all the exact country where those email    sent, which we think the location of those email is going to help our model a lot since each country must have their characteristic。 Here is the code below: ![P_email](https://github.com/Adouken133/final_project/blob/master/FIGURE/email_code.png)
+- what we did is transfer all the information that we got in ['P_emaildomain'] and then to get all the exact country where those email    sent, which we think the location of those email is going to help our model a lot since each country must have their characteristic. Here is the code below: ![P_email](https://github.com/Adouken133/final_project/blob/master/FIGURE/email_code.png)
 
 
 -----
