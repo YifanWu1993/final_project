@@ -32,10 +32,13 @@ Bascially there are 4 big part for the whole feature enginnering that we are goi
 
 - Here is the code that we use:
 
-![drop_outlier](https://github.com/Adouken133/final_project/blob/master/FIGURE/long_amt.png)
+![code_for drop_outlier](https://github.com/Adouken133/final_project/blob/master/FIGURE/code_for_drop_outlier.png)
 
-As a Video game freak, i am curious about which type of game has the better sales in each area
-i would like to know can we predcit the connection between the game type and the sales in each area
+- we decide to drop the value which is greater than the 99 percent of the values also the values which is less than 1 percent. Here is the Figure after drop: 
+
+![drop_outlier](https://github.com/Adouken133/final_project/blob/master/FIGURE/drop_outlier.png)
+
+
 
 ### Abstract
 
