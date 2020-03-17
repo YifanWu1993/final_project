@@ -7,7 +7,7 @@ Bascially there are 4 big part for the whole feature enginnering that we are goi
 -----
 
 ### ['P_emaildomain'] Feature 
-- Handle the Nonsense value and transfer them in some value in order to make computer to read it:
+- Handle the Nonsense value and transfer them in some value in order to make computer to read it:https://github.com/Adouken133/final_project/blob/master/FIGURE/unique_of_email.png
 
 - Python script for your analysis:/final%20project.py
 - Results figure/saved file:/FIGURE
