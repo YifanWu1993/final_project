@@ -1,5 +1,34 @@
+# Data Preprocessing 
+
+- This part bascially we need handle the NAN values in our dataset 
+
+- Transfer 'category' or 'object' values into digital data
+
+- Reduce Memory
+
+
+# Handle NAN Value
+
+- NAN Value has crucial part in data preprocessing. what we did is fill in the float and integer columns with their median, fill in 'unknow' into the 'object' columns.
+
+- Since we think fill in average values may has a chance to get very unbalanced dataset,therefore median values should be more Suitable
+
+- Here is the code we use:
+
+![P_email](https://github.com/Adouken133/final_project/blob/master/FIGURE/unique_of_email.png)
+
+
+
+
+
+
+
+
+
+
 # Feature Engineering 
-  This part we are going to explain the Feature Engineering that we did for our project and the purpose of doing it.
+
+- This part we are going to explain the Feature Engineering that we did for our project and the purpose of doing it.
   
 Bascially there are 4 big part for the whole feature enginnering that we are going to explain about it.
   
@@ -61,42 +90,10 @@ Bascially there are 4 big part for the whole feature enginnering that we are goi
 
 - Here is the code that we use:
 
-
-
-### Methods
-
-classification case.
-it can not only solve the simple classification case but also can handle the multiple classification case.
-in the project, there are over 10 types of game which i need to classify
-![PCA](https://github.com/Adouken133/final_project/blob/master/FIGURE/PCA.png)
+![other_feature](https://github.com/Adouken133/final_project/blob/master/FIGURE/other_feature_code.png)
 
 
 
-### Results
-![Report](https://github.com/Adouken133/final_project/blob/master/FIGURE/Report.png)
-In my F1 and classification report can show me my precision is actually super low here. So it is actually hard to classify the relationship between Genre and the other features
-![compare](https://github.com/Adouken133/final_project/blob/master/FIGURE/Comparsion_image.png)
-
-After i drop some features and got an new result actually isolate the JP_SALES the precision actually increase a little 
-
-![new_report](https://github.com/Adouken133/final_project/blob/master/FIGURE/new_report.png) 
-
-And this is an JP_SALE Compare Genre plot here 
-
-![new_compare](https://github.com/Adouken133/final_project/blob/master/FIGURE/NEW_COMPARE.png)
-
-Here is the new PCA 
-
-![new_PCA](https://github.com/Adouken133/final_project/blob/master/FIGURE/PCA_AFTER_NEW_EXPLOATION.png)
-
-As we can see As i isolate the jp_sales and drop some other features. the result is getting better 
-
-
-
-
-### Discussion
-Bascially in my opinion my method did not sovle this problem since the F1 score and precision is so low. There are a few probability that could make this happened. Maybe my algorithm is not be able to solve this, or maybe this dataset is not appropriate for the classification case
-![corr](https://github.com/Adouken133/final_project/blob/master/FIGURE/corr.png)
 
 ### References
 All of the links
