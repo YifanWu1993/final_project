@@ -7,7 +7,7 @@ Bascially there are 4 big part for the whole feature enginnering that we are goi
 -----
 
 ### Email Feature
-Your repository should include the following:
+Handle the Nonsense value and transfer them in some value in order to make computer to read it:
 
 - Python script for your analysis:/final%20project.py
 - Results figure/saved file:/FIGURE
