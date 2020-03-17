@@ -40,7 +40,7 @@ Bascially there are 4 big part for the whole feature enginnering that we are goi
 
 
 
-### Abstract
+
 
 So the dataset i have contains every areas sale such as NA_sales
 and EU_Sales. It also contains every single Genre which is my
