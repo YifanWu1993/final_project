@@ -2,29 +2,31 @@
 
 - This part bascially we need handle the NAN values in our dataset 
 
-- Transfer 'category' or 'object' values into digital data
+- Transfer 'object' values into digital data
 
 - Reduce Memory
 
+-----
 
 # Handle NAN Value
 
 - NAN Value has crucial part in data preprocessing. what we did is fill in the float and integer columns with their median, fill in 'unknow' into the 'object' columns.
 
-- Since we think fill in average values may has a chance to get very unbalanced dataset,therefore median values should be more Suitable
+- Since if we fill in average values may has a chance to get very unbalanced dataset,therefore median values should be more Suitable
 
 - Here is the code we use:
 
-![P_email](https://github.com/Adouken133/final_project/blob/master/FIGURE/unique_of_email.png)
+![Handle_nan](https://github.com/Adouken133/final_project/blob/master/FIGURE/handle%20Nan.png)
 
+-----
 
+# Reduce Memory and Transfer values
 
+- Since computer can only read the digital values that we have to transfer all the 'object' values into the digital values.
 
+- Memory Reduce can help us save the time when we run our model, it can improve our effiency of work.
 
-
-
-
-
+-----
 
 # Feature Engineering 
 
@@ -32,7 +34,6 @@
   
 Bascially there are 4 big part for the whole feature enginnering that we are going to explain about it.
   
-
 -----
 
 ### ['P_emaildomain'] Feature 
