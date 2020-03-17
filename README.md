@@ -25,6 +25,7 @@ Bascially there are 4 big part for the whole feature enginnering that we are goi
 ## ['TransactionAmt'] Feature
 
 - This feature bascilly has lots of outlier that we need to handle since we displot it out and find out this one is long_tail type: 
+
 ![long_tail](https://github.com/Adouken133/final_project/blob/master/FIGURE/long_amt.png)
 
 
