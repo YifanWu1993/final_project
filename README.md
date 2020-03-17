@@ -28,6 +28,11 @@ Bascially there are 4 big part for the whole feature enginnering that we are goi
 
 ![long_tail](https://github.com/Adouken133/final_project/blob/master/FIGURE/long_amt.png)
 
+- we think that if this feature has too many outliers it might make our model unsteadable, therefore we decide to drop the outlier values in this feature. 
+
+- Here is the code that we use:
+
+![drop_outlier](https://github.com/Adouken133/final_project/blob/master/FIGURE/long_amt.png)
 
 As a Video game freak, i am curious about which type of game has the better sales in each area
 i would like to know can we predcit the connection between the game type and the sales in each area
