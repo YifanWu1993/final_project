@@ -6,8 +6,8 @@ Bascially there are 4 big part for the whole feature enginnering that we are goi
 
 -----
 
-### Email Feature
-Handle the Nonsense value and transfer them in some value in order to make computer to read it:
+### ['P_emaildomain'] Feature 
+- Handle the Nonsense value and transfer them in some value in order to make computer to read it:
 
 - Python script for your analysis:/final%20project.py
 - Results figure/saved file:/FIGURE
