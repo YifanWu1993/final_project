@@ -38,6 +38,7 @@ Bascially there are 4 big part for the whole feature enginnering that we are goi
   
 -----
 
+
 ### ['P_emaildomain'] Feature 
 - Handle the Nonsense value and transfer them in some value in order to make computer to read it:
 
@@ -51,8 +52,8 @@ Bascially there are 4 big part for the whole feature enginnering that we are goi
 
 - what we did is transfer all the information that we got in ['P_emaildomain'] and then to get all the exact country where those email    sent, which we think the location of those email is going to help our model a lot since each country must have their characteristic. Here is the code below: ![P_email](https://github.com/Adouken133/final_project/blob/master/FIGURE/email_code.png)
 
-
 -----
+
 
 ## ['TransactionAmt'] Feature
 
@@ -70,6 +71,7 @@ Bascially there are 4 big part for the whole feature enginnering that we are goi
 
 ![drop_outlier](https://github.com/Adouken133/final_project/blob/master/FIGURE/drop_outlier.png)
 
+-----
 
 
 ## ['TransactionDT'] Feature
@@ -82,6 +84,8 @@ Bascially there are 4 big part for the whole feature enginnering that we are goi
 
 ![code_date](https://github.com/Adouken133/final_project/blob/master/FIGURE/code_date_transfer.png)
 
+
+-----
 
 ### ['Card1'], ['Card2'] Features
 
