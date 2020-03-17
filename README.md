@@ -40,20 +40,28 @@ Bascially there are 4 big part for the whole feature enginnering that we are goi
 
 
 
+## ['TransactionDT'] Feature
+
+- This feature contains all the transaction date time which is an object type in the oringal dataframe. Therefore we think we need to transfer them to the dateobject in order to let our computer read it and run.
+
+- More specify we need to add some columns like: 'df['day']', ' df['year']' etc, which is some importance features that transfer it from the ['TransactionDT'].
+
+- Here is the code that we use:
+
+![code_date](https://github.com/Adouken133/final_project/blob/master/FIGURE/code_date_transfer.png)
 
 
-So the dataset i have contains every areas sale such as NA_sales
-and EU_Sales. It also contains every single Genre which is my
-target. My challenge isto trying to classify the game genre and 
-trying to figure out if there is any conncection with sales.As i classify all the Genre such as Shooting, First_Role_Play. 
-i will try to find out if there is any specific Genre has related to the sales
+### ['Card1'], ['Card2'] Features
+
+- .There are some importance features such as ['Card1'], ['Card2'] that has huge amounts of values which is really complex and messed. we think these feature need to be handle it into the category type value. 
+
+- Category values are going to relase some pressure when we are going to train our model. Therefore we find those features and set up some bins(threshold). in this way, the data is more clean and orangize. 
+
+- Also we think only some importance features that need it to be handle in category type since they can affect the model a lot.
+
+- Here is the code that we use:
 
 
-### Introduction
-
-The dataset i got is from Kaggle(https://www.kaggle.com/gregorut/videogamesales).
-The script to scrape the data is available at https://github.com/GregorUT/vgchartzScrape. 
-It is based on BeautifulSoup using Python. There are 16,598 records. 2 records were dropped due to incomplete information.
 
 ### Methods
 
