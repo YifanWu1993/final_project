@@ -9,14 +9,15 @@ Bascially there are 4 big part for the whole feature enginnering that we are goi
 ### ['P_emaildomain'] Feature 
 - Handle the Nonsense value and transfer them in some value in order to make computer to read it:
 
-The red circle is the one that we need to take care of it:
+- The red circle is the one that we need to take care of it:
 
 ![P_email](https://github.com/Adouken133/final_project/blob/master/FIGURE/unique_of_email.png)
 
-- Python script for your analysis:/final%20project.py
-- Results figure/saved file:/FIGURE
-- Dockerfile for your experiment
-- runtime-instructions in a file named RUNME.md
+- Therefore we would like to replace those value then when we will get less pressure when we train our model.
+
+- Also we create an new feature called ['Region_emaildomain']:
+
+- what we did is transfer all the information that we got in ['P_emaildomain'] and then to get all the exact country where those email    sent, which we think the location of those email is going to help our model a lot since each country must have their characteristic。 Here is the code below:
 
 -----
 
